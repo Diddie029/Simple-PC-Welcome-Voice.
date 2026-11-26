@@ -1,4 +1,4 @@
-# A simple PC Welcome Voice A
+# A simple PC Welcome Voice.
 
 A simple Windows startup voice assistant built with **PowerShell**. It automatically welcomes the user with a spoken message whenever they log into their PC.
 
